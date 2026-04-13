@@ -4,4 +4,4 @@
 
 Приклад:
 
-Microsoft Office 365: Безкоштовний план для студентів
+[Microsoft Office 365](https://www.microsoft.com/en-us/education/products/office): Безкоштовний план для студентів
